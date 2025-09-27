@@ -2,8 +2,6 @@
 
 Firmware and project scaffolding for a TI CCS (Theia) based DSP application that acquires temperature, pressure, and humidity from TMP100, MS5607, and HIH8131 sensors on a motor drive card. Includes initialization, periodic sampling, data validation, unit conversion, and streamlined hooks for diagnostics and downstream control loops.
 
-Suggested repository name: motor-drive-dsp-sensor-suite
-
 ## Highlights
 - **Sensors**:
   - TMP100: Ambient temperature over I²C (12‑bit typical)
