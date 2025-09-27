@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test\" -I\"C:/ti/C2000Ware_5_05_00_00\" -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test\" -I\"C:/ti/C2000Ware_5_05_00_00\" -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg\" -DF2838x=1",
+      "file"      : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device/f2838x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test\" -I\"C:/ti/C2000Ware_5_05_00_00\" -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/empty_driverlib_main.c"
+   },
+   {
+      "directory" : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test\" -I\"C:/ti/C2000Ware_5_05_00_00\" -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test\" -I\"C:/ti/C2000Ware_5_05_00_00\" -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/device\" -I\"C:/ti/C2000Ware_5_05_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/holym/workspace_ccstheia/RS422_UART_Test/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]

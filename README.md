@@ -40,7 +40,6 @@ Tip: The logical purpose of `RS422_UART_Test/` is now sensor acquisition; you ma
 
 1. Open TI CCS (Theia).
 2. Import project:
-   - File → Import… → CCS Projects → Select workspace → choose `RS422_UART_Test/`
 3. Configure target:
    - Device/CPU, compiler, SDK paths
    - I²C peripheral instance and pins (SCL/SDA)
